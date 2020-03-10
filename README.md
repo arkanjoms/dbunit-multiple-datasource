@@ -1,5 +1,7 @@
 # dbunit-multiple-datasource
 
+![Main workflow](https://github.com/arkanjoms/dbunit-multiple-datasource/workflows/Main%20workflow/badge.svg)
+
 Example project with:
 * spring-boot
 * java 8
